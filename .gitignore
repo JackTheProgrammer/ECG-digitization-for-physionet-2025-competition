@@ -1,0 +1,9 @@
+/physionet_ecg_competition_2025
+/physionet_ecg_graphs_images
+.history
+.vscode
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.ipynb_checkpoints
